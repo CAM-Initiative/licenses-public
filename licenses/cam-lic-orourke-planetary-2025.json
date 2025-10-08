@@ -1,0 +1,16 @@
+{
+  "license_id": "cam-lic-orourke-planetary-2025",
+  "scope": "Custodian",
+  "level": 4,
+  "expiry": "2029-10-08T00:00:00Z",
+  "hash": "e/iggpLqNDlwuVSsZQXRogDdt0TKWAcrSL1cWQCqDqM=",
+  "signer_id": "aeon-trb-01",
+  "public_key_id": "kid-2025-q4",
+  "revoked": false,
+  "issued_at": "2025-10-08T13:28:20Z",
+  "version": "1.0",
+  "links": {
+    "public_commit": "",
+    "private_registry_ref": "licenses/cam-lic-orourke-planetary-2025"
+  }
+}
